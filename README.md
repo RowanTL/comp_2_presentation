@@ -1,3 +1,7 @@
+# Rowan Notes
+
+My original repo for this presentation is here: [https://github.com/RowanTL/manim-projects](https://github.com/RowanTL/manim-projects)
+
 # Manim Slides Starter
 
 [![Deploy static content to Pages](../../actions/workflows/deploy_pages.yml/badge.svg)](../../actions/workflows/deploy_pages.yml)
