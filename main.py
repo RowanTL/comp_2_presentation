@@ -100,7 +100,7 @@ class WhyProblemSlide(Slide):
             start=juul_pod_image.get_right(), end=cigarette_image.get_left()
         )
         question_mark_text: Text = (
-            Text("nicotine amount?")
+            Text("nicotine content?")
             .scale(0.5)
             .next_to(juul_pod_cigarette_image_arrow, UP)
         )
